@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 A passionate Web developer
 --------------------------
 
-I've been learning programming for 3 years. I started with HTML, but have really found a passion for JAVA and backend web development.
+I've been learning programming for 3 years. I started with HTML, but have really found a passion for JAVA and backend development.
 
 * 🌍  I'm based in Pakistan
 * ✉️  You can contact me at [mhammad3333@gmail.com](mailto:mhammad3333@gmail.com)
