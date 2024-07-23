@@ -7,13 +7,13 @@
 
 <p align="left"> <a href="https://twitter.com/mhammadafz99" target="blank"><img src="https://img.shields.io/twitter/follow/mhammadafz99?logo=twitter&style=for-the-badge" alt="mhammadafz99" /></a> </p>
 
-- 🔭 I’m currently working on [Portfolio Website](https://github.com/MHammad33/Portfolio_Website)
+- 🔭 I’m currently working on [Portfolio Website](https://github.com/MHammad33/Portfolio-React-Tailwind)
 
-- 🌱 I’m currently learning **Django, CS50P**
+- 🌱 I’m currently learning **Full Stack Web Development from [Full Stack Open](https://fullstackopen.com/)**
 
 - 👨‍💻 All of my projects are available at [https://github.com/MHammad33](https://github.com/MHammad33)
 
-- 💬 Ask me about **react, node, express, MERN stack**
+- 💬 Ask me about **Software Development**
 
 - 📫 How to reach me **hammadafzal1111@gmail.com**
 
