@@ -2,10 +2,10 @@
 <h3 align="center">🚀 Full-Stack Software Engineer | Building Scalable, User-Centric Web Apps</h3>
 
 <p align="center">
-<a href="https://mhammadafzal.vercel.app"><img src="https://img.shields.io/badge/🌐%20Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"></a>
+<a href="https://mhammadafzal.vercel.app"><img src="https://img.shields.io/badge/%20Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"></a>
 <a href="https://linkedin.com/in/mhammad33"><img src="https://img.shields.io/badge/💼%20LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-<a href="mailto:hammadafzal1111@gmail.com"><img src="https://img.shields.io/badge/📧%20Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-<a href="https://github.com/MHammad33"><img src="https://img.shields.io/badge/📂%20GitHub-181717?style=for-the-badge&logo=github&logoColor=white"></a>
+<a href="mailto:hammadafzal1111@gmail.com"><img src="https://img.shields.io/badge/%20Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+<a href="https://github.com/MHammad33"><img src="https://img.shields.io/badge/%20GitHub-181717?style=for-the-badge&logo=github&logoColor=white"></a>
 </p>
 
 ---
