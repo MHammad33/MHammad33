@@ -1,5 +1,6 @@
-<h1 align="center">👋 Muhammad Hammad Afzal</h1>
-<h3 align="center">🚀 Full-Stack Software Engineer | Building Scalable, User-Centric Web Apps</h3>
+<p align="center">
+  <img src="Muhammad Hammad Afzal - Full-Stack Engineer.png" alt="Muhammad Hammad Afzal | Full-Stack Engineer" width="800" height="500" />
+</p>
 
 <p align="center">
 <a href="https://mhammadafzal.vercel.app"><img src="https://img.shields.io/badge/%20Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"></a>
