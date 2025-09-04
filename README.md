@@ -23,9 +23,9 @@
 
 | Project | Tech | Live Demo |
 |---------|------|-----------|
-| 🔹 **[Issue Tracker](https://issue-tracker-mhammad33.vercel.app/)** | Next.js, Prisma, React Query | 🚀 [Launch](https://issue-tracker-mhammad33.vercel.app/) |
-| 🔹 **[URL Shortener](https://url-shortener-mhammad33.vercel.app/)** | React, Express.js, MongoDB | 🚀 [Launch](https://url-shortener-mhammad33.vercel.app/) |
-| 🔹 **[Finance Tracker](https://finance-tracker-mhammad33.vercel.app/)** | React, Node.js, MongoDB, Chart.js | 🚀 [Launch](https://finance-tracker-mhammad33.vercel.app/) |
+| 🔹 **[Issue Tracker](https://github.com/MHammad33/Error_Tracker)** | Next.js, Prisma, React Query | 🚀 [Launch](https://error-tracker-nine.vercel.app/) |
+| 🔹 **[URL Shortener](https://github.com/MHammad33/URL-Shortener)** | React, Express.js, MongoDB | 🚀 [Launch](https://hammad-url-shortener.vercel.app/) |
+| 🔹 **[Finance Tracker](https://github.com/MHammad33/personal-finance-tracker)** | React, Node.js, MongoDB, Chart.js | 🚀 [Launch](https://hammad-finance.vercel.app/) |
 
 ---
 
